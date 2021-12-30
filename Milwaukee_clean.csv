@@ -1,0 +1,28 @@
+,Company,City,Zip.code,Independent,NumberOfStores,Type,Income,County,PopulationRange,Walkability.Score,Distance,AverageAgeByCounty
+1,Riverwest Co-op & Café,2,53212,1,2,3,39585.98,3,4,76,104,1
+2,Waterford Wine Company,2,53202,1,2,6,62142,3,3,91,103,1
+3,Trader Joe's,2,53217,0,5,3,136119.88,3,3,13,111,1
+4,Harbor House,2,53202,1,2,5,62142,3,3,91,103,1
+5,Whole Foods Market,2,53211,1,5,3,80065.91,3,4,60,107,1
+6,The Tin Widow,2,53204,1,2,1,35744,3,5,83,103,1
+7,Thief Wine Shop & Bar,2,53202,1,2,6,62142,3,3,91,103,1
+8,El Rey Food Mart,2,53204,1,2,3,35744,3,5,83,103,1
+9,Camp Bar Third Ward,2,53202,1,2,1,62142,3,3,91,103,1
+10,"Discount Liquor, Inc",2,53219,1,2,4,54491.71,3,4,53,100,1
+11,Sendik's Food Market,2,53202,1,4,3,62142,3,3,91,103,1
+12,Metro Market,2,53202,0,3,3,62142,3,3,91,103,1
+13,Maurer's Urban Market,2,53202,1,2,3,62142,3,3,91,103,1
+14,Ray's Wine & Spirits,4,53226,1,2,4,82080.69,3,2,47,96.6,1
+15,Metcalfe's,4,53213,1,2,3,81225.34,1,3,68,99.8,1
+16,Foltz Family Market,2,53202,1,2,3,62142,3,3,91,103,1
+17,Amilinda,2,53202,1,2,5,62142,3,3,91,103,1
+18,Sunrise Foods,2,53212,1,2,3,39585.98,3,4,76,104,1
+19,Woodman's,3,53186,1,4,3,67482,5,4,31,91.3,2
+20,Tallys Tap & Eatery,3,53189,1,2,5,NA,NA,NA,NA,NA,NA
+21,Piggly Wiggly,2,53207,1,5,3,58980,3,4,63,106,1
+22,Waukesha Liquor,3,53186,1,2,4,67482,5,4,31,91.3,2
+23,Tandoor Cuisine and Indo-Pak Grocery,2,53221,1,2,3,57263.26,3,4,60,105,1
+24,Pick 'n Save,2,53207,0,3,3,58980,3,4,63,106,1
+25,Walmart Supercenter,2,53212,0,5,3,39585.98,3,4,76,104,1
+26,Dream Apple Farm,1,53092,1,2,2,106413,4,3,7,117,2
+27,Bartollota's,2,53233,1,1,5,26920.98,1,2,84,101,1

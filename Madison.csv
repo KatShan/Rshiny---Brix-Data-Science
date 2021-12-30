@@ -1,0 +1,65 @@
+ID,Company,City,Zip.code,Vendor,Independent,NumberOfStores,Type,Income,County,PopulationRange,Walkability.Score,Distance,AverageAgeByCounty
+1,Appleberry Farm,Cross Plains,53528,1,1,<10,Farm,77098,Dane,<10000,38,10.7,25-34
+2,Best Plaza Liquor,Stoughton,53589,1,1,<10,Liquor,65586,Dane,<20000,75,29.9,25-34
+3,Brennan's Cellars,Madison,53719,1,1,<10,Grocery,65796.1,Dane,<30000,59,14.7,25-34
+4,Cork N Bottle,Madison,53703,1,1,<10,Liquor,25078,Dane,<30000,88,25.8,25-34
+5,Growlers to Go-Go,Madison,53704,1,1,<10,Liquor,53358.48,Dane,<50000,47,29.3,25-34
+6,Miller & Sons (Mount Horeb),Mount Horeb,53572,1,1,<10,Grocery,67361,Dane,<10000,61,3.8,25-34
+7,Miller & Sons (Verona),Verona,53593,1,1,<10,Grocery,90738,Dane,<20000,72,11.4,25-34
+8,Munchkey Apples,Mount Horeb,53572,1,1,<10,Farm,67361,Dane,<10000,61,3.8,25-34
+9,Star Liquor,Madison,53703,1,1,<10,Liquor,25078,Dane,<30000,88,25.8,25-34
+10,Steve's Junction Rd,Madison,53717,1,1,<10,Liquor,75889.37,Dane,<20000,36,14.3,25-34
+11,Steve's Mckee,Fitchburg,53719,1,1,<10,Liquor,65796.1,Dane,<30000,59,14.7,25-34
+12,Taliesin Preservation,Spring Green,53588,1,1,<10,Restaurant,58086,Sauk,<10000,63,30.2,35-44
+13,The Old Fashioned,Madison,53703,1,1,<10,Restaurant,25078,Dane,<30000,88,25.8,25-34
+14,Trixie's Liquor,Madison,53704,1,1,<10,Liquor,53358.48,Dane,<50000,47,29.3,25-34
+15,Trollway Liquor,Mount Horeb,53572,1,1,<10,Liquor,67361,Dane,<10000,61,3.8,25-34
+16,Verona Wine Cellar,Verona,53593,1,1,<10,Wine,90738,Dane,<20000,72,11.4,25-34
+17,Willy Street Co-op (East),Madison,53703,1,1,<10,Grocery,25078,Dane,<30000,88,25.8,25-34
+18,Willy Street Co-op (North),Madison,53704,1,1,<10,Grocery,53358.48,Dane,<50000,47,29.3,25-34
+19,Willy Street Co-op (West),Middleton,53562,1,1,<10,Grocery,71219,Dane,<30000,42,16,25-34
+20,World of Beer Middleton,Middleton,53562,1,0,<=50,Bar,71219,Dane,<30000,42,16,25-34
+21,Creative Grocery Concepts,Madison,53704,1,1,<10,Grocery,53358.48,Dane,<50000,47,29.3,25-34
+22,Cress Spring Bakery,Blue Mounds,53517,1,1,<10,Restaurant,69034,Dane,<10000,0,5.3,25-34
+23,Enos Farms,Spring Green,53588,1,1,<10,Farm,58086,Sauk,<10000,63,30.2,35-44
+24,Mershonian Cidery,Stoughton,53589,1,1,<10,Wine,65586,Dane,<20000,75,29.9,25-34
+25,Regent Market Coop,Madison,53726,1,1,<10,Grocery,44184,Dane,<10000,80,21,25-34
+26,Square Wine Co,Madison,53703,1,1,<10,Wine,25078,Dane,<30000,88,25.8,25-34
+27,Steenbock's on Orchard,Madison,53715,1,1,<10,Restaurant,16488.12,Dane,<10000,82,22.3,25-34
+28,Sunn Cafe LLC,Mount Horeb,53572,1,1,<10,Restaurant,67361,Dane,<10000,61,3.8,25-34
+29,Winestyles Tasting Room,Sun Praire,53590,1,1,<25,Wine,70122,Dane,<40000,66,49,25-34
+30,Hyvee Fitchburg,Fitchburg,53719,1,0,>200,Grocery,65796.1,Dane,<30000,59,14.7,25-34
+31,Woodman's Sun Prairie,Sun Praire,53590,0,1,<25,Grocery,70122,Dane,<40000,66,49,25-34
+32,Woodman's West,Madison,53719,0,1,<25,Grocery,65796.1,Dane,<30000,59,14.7,25-34
+33,Total Wine,Madison,53719,0,0,<200,Liquor,65796.1,Dane,<30000,59,14.7,25-34
+34,McFarland Liquor's,McFarland,53558,0,1,<10,Liquor,74075,Dane,<20000,60,28.4,25-34
+35,Cannery Wine and Spirits,Sun Praire,53590,0,1,<10,Wine,70122,Dane,<40000,66,49,25-34
+36,Steve's University,Madison,53705,0,1,<10,Wine,61308.55,Dane,<30000,48,17.3,25-34
+37,Riley's Wines of the World,Madison,53703,0,1,<10,Wine,25078,Dane,<30000,88,25.8,25-34
+38,Harley's Wine & Spirits,Madison,53716,0,1,<10,Liquor,60222.44,Dane,<20000,61,26.6,25-34
+39,Rocky's Liquor Store,Madison,53714,0,1,<10,Liquor,55126.43,Dane,<20000,38,29.8,25-34
+40,Whole Foods Market,Madison,53705,0,1,>200,Grocery,61308.55,Dane,<30000,48,17.3,25-34
+41,Metcalfe's Hilldale,Madison,53705,0,1,<10,Grocery,61308.55,Dane,<30000,48,17.3,25-34
+42,Metcalfe's West,Madison,53719,0,1,<10,Grocery,65796.1,Dane,<30000,59,14.7,25-34
+43,Mahen's Liquor,Madison,53704,0,1,<10,Liquor,53358.48,Dane,<50000,47,29.3,25-34
+44,Miller's Liquor,Madison,53726,0,1,<10,Liquor,44184,Dane,<10000,80,21,25-34
+45,North Side Liquor,Madison,53704,0,1,<10,Liquor,53358.48,Dane,<50000,47,29.3,25-34
+46,Badger Liquor,Madison,53703,0,1,<10,Liquor,25078,Dane,<30000,88,25.8,25-34
+47,The Vineyard Liquor,Madison,53715,0,1,<10,Liquor,16488.12,Dane,<10000,82,22.3,25-34
+48,Metro Market,Madison,53718,0,0,<200,Grocery,72467.12,Dane,<20000,49,33.3,25-34
+49,Trader Joe's,Madison,53711,0,0,>200,Grocery,66828.66,Dane,<50000,54,18.4,25-34
+50,Festival Foods,Madison,53703,0,0,<=50,Grocery,25078,Dane,<30000,88,25.8,25-34
+51,Pick 'n Save East,Madison,53704,0,0,<200,Grocery,53358.48,Dane,<50000,47,29.3,25-34
+52,Fresh Madison Market,Madison,53715,0,1,<10,Grocery,16488.12,Dane,<10000,82,22.3,25-34
+53,Pick 'n Save Downtown,Madison,53715,0,0,<200,Grocery,16488.12,Dane,<10000,82,22.3,25-34
+54,Woodman's East,Madison,53714,0,1,<25,Grocery,55126.43,Dane,<20000,38,29.8,25-34
+55,Table Wine,Madison,53704,0,1,<10,Wine,53358.48,Dane,<50000,47,29.3,25-34
+56,Sadhana Wine Shop,Madison,53703,0,1,<10,Wine,25078,Dane,<30000,88,25.8,25-34
+57,Bottle Stop Liquors,Madison,53704,0,1,<10,Liquor,53358.48,Dane,<50000,47,29.3,25-34
+58,Barriques Middleton,Middleton,53562,0,1,<10,Restaurant,71219,Dane,<30000,42,16,25-34
+59,Barriques Atwood,Madison,53704,0,1,<10,Restaurant,53358.48,Dane,<50000,47,29.3,25-34
+60,Barriques Park Street,Madison,53715,0,1,<10,Restaurant,16488.12,Dane,<10000,82,22.3,25-34
+61,Barriques Monroe,Madison,53711,0,1,<10,Restaurant,66828.66,Dane,<50000,54,18.4,25-34
+62,Barriques University,Madison,53705,0,1,<10,Restaurant,61308.55,Dane,<30000,48,17.3,25-34
+63,Barriques Fitchburg,Fitchburg,53719,0,1,<10,Restaurant,65796.1,Dane,<30000,59,14.7,25-34
+64,Barriques Old Sauk,Middleton,53562,0,1,<10,Restaurant,71219,Dane,<30000,42,16,25-34

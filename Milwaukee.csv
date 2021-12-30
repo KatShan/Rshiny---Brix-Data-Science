@@ -1,0 +1,28 @@
+ID,Company,City,Zip.code,Independent,NumberOfStores,Type,Income,County,PopulationRange,Walkability.Score,Distance,AverageAgeByCounty
+1,Riverwest Co-op & Café,Milwaukee,53212,1,<10,Grocery,39585.98,Milwaukee,<40000,76,104,25-34
+2,Waterford Wine Company,Milwaukee,53202,1,<10,Wine,62142,Milwaukee,<30000,91,103,25-34
+3,Trader Joe's,Milwaukee,53217,0,>200,Grocery,136119.88,Milwaukee,<30000,13,111,25-34
+4,Harbor House,Milwaukee,53202,1,<10,Restaurant,62142,Milwaukee,<30000,91,103,25-34
+5,Whole Foods Market,Milwaukee,53211,1,>200,Grocery,80065.91,Milwaukee,<40000,60,107,25-34
+6,The Tin Widow,Milwaukee,53204,1,<10,Bar,35744,Milwaukee,<50000,83,103,25-34
+7,Thief Wine Shop & Bar,Milwaukee,53202,1,<10,Wine,62142,Milwaukee,<30000,91,103,25-34
+8,El Rey Food Mart,Milwaukee,53204,1,<10,Grocery,35744,Milwaukee,<50000,83,103,25-34
+9,Camp Bar Third Ward,Milwaukee,53202,1,<10,Bar,62142,Milwaukee,<30000,91,103,25-34
+10,"Discount Liquor, Inc",Milwaukee,53219,1,<10,Liquor,54491.71,Milwaukee,<40000,53,100,25-34
+11,Sendik's Food Market,Milwaukee,53202,1,<25,Grocery,62142,Milwaukee,<30000,91,103,25-34
+12,Metro Market,Milwaukee,53202,0,<200,Grocery,62142,Milwaukee,<30000,91,103,25-34
+13,Maurer's Urban Market,Milwaukee,53202,1,<10,Grocery,62142,Milwaukee,<30000,91,103,25-34
+14,Ray's Wine & Spirits,Wauwatosa,53226,1,<10,Liquor,82080.69,Milwaukee,<20000,47,96.6,25-34
+15,Metcalfe's,Wauwatosa,53213,1,<10,Grocery,81225.34, Milwaukee ,<30000,68,99.8,25-34
+16,Foltz Family Market,Milwaukee,53202,1,<10,Grocery,62142,Milwaukee,<30000,91,103,25-34
+17,Amilinda,Milwaukee,53202,1,<10,Restaurant,62142,Milwaukee,<30000,91,103,25-34
+18,Sunrise Foods,Milwaukee,53212,1,<10,Grocery,39585.98,Milwaukee,<40000,76,104,25-34
+19,Woodman's,Waukesha,53186,1,<25,Grocery,67482,Waukesha,<40000,31,91.3,35-44
+20,Tallys Tap & Eatery,Waukesha,53189,1,<10,Restaurant,NA,NA,NA,NA,NA,NA
+21,Piggly Wiggly,Milwaukee,53207,1,>200,Grocery,58980,Milwaukee,<40000,63,106,25-34
+22,Waukesha Liquor,Waukesha,53186,1,<10,Liquor,67482,Waukesha,<40000,31,91.3,35-44
+23,Tandoor Cuisine and Indo-Pak Grocery,Milwaukee,53221,1,<10,Grocery,57263.26,Milwaukee,<40000,60,105,25-34
+24,Pick 'n Save,Milwaukee,53207,0,<200,Grocery,58980,Milwaukee,<40000,63,106,25-34
+25,Walmart Supercenter,Milwaukee,53212,0,>200,Grocery,39585.98,Milwaukee,<40000,76,104,25-34
+26,Dream Apple Farm,Mequon,53092,1,<10,Farm,106413,Ozaukee,<30000,7,117,35-44
+27,Bartollota's,Milwaukee,53233,1,<=50,Restaurant,26920.98, Milwaukee ,<20000,84,101,25-34
